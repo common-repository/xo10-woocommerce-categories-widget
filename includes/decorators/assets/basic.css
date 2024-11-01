@@ -1,0 +1,81 @@
+.xo10-basic-list-holder * {
+  -webkit-font-smoothing: antialiased;
+}
+.xo10-basic-list-holder ul li {
+  list-style: none;
+  display: block;
+  position: relative;
+}
+.xo10-basic-list-holder ul {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.xo10-basic-list-holder a {
+  display: block;
+  outline: none;
+  text-decoration: none;
+}
+.xo10-basic-list-holder ul > li li {
+  margin: 0 !important;
+}
+.xo10-basic-list-holder ul > li {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.xo10-basic-list-holder > ul > li > a {
+  padding-left: 0;
+}
+.xo10-basic-list-holder > ul > li > ul > li > a {
+  padding-left: 20px;
+}
+.xo10-basic-list-holder > ul > li > ul > li > ul > li > a {
+  padding-left: 40px;
+}
+.xo10-basic-list-holder > ul > li > ul > li > ul > li > ul > li > a {
+  padding-left: 60px;
+}
+.xo10-basic-list-holder > ul.countpos-extleft > li > a {
+  padding-right: 0;
+}
+.xo10-basic-list-holder > ul.countpos-extleft > li > ul > li > a {
+  padding-right: 20px;
+}
+.xo10-basic-list-holder > ul.countpos-extleft > li > ul > li > ul > li > a {
+  padding-right: 40px;
+}
+.xo10-basic-list-holder > ul.countpos-extleft > li > ul > li > ul > li > ul > li > a {
+  padding-right: 60px;
+}
+.xo10-basic-list-holder ul li > a {
+  overflow: hidden;
+}
+.xo10-basic-list-holder ul li > a > img {
+  float: left;
+}
+.xo10-basic-list-holder ul li > a > .cat-name {
+  vertical-align: middle;
+  line-height: 30px;
+  float: left;
+}
+.xo10-basic-list-holder ul.show-iltr li > a > .cat-name {
+  margin-left: 10px;
+}
+.xo10-basic-list-holder ul.show-tlir li > a > .cat-name {
+  margin-right: 10px;
+}
+.xo10-basic-list-holder ul.countpos-extright li > a {
+  float: left;
+}
+.xo10-basic-list-holder ul.countpos-extright li > .count {
+  float: right;
+}
+.xo10-basic-list-holder ul.countpos-extleft li > a {
+  float: right !important;
+}
+.xo10-basic-list-holder ul.countpos-extleft li > .count {
+  float: left;
+}
+.xo10-basic-list-holder ul li {
+  padding: 10px 0 !important;
+  clear: both;
+}

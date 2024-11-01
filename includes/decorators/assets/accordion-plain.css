@@ -1,0 +1,135 @@
+.xo10-accordion-list-holder * {
+  -webkit-font-smoothing: antialiased;
+}
+.xo10-accordion-list-holder ul li {
+  list-style: none;
+  display: block;
+  position: relative;
+}
+.xo10-accordion-list-holder ul {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.xo10-accordion-list-holder a {
+  display: block;
+  outline: none;
+  text-decoration: none;
+}
+.xo10-accordion-list-holder ul > li li {
+  margin: 0 !important;
+}
+.xo10-accordion-list-holder ul > li {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.xo10-accordion-list-holder li a {
+  font-size: 12px;
+  line-height: 18px;
+  padding: 14px 22px;
+  font-weight: 600;
+}
+.xo10-accordion-list-holder > ul > li > a {
+  font-size: 14px;
+  line-height: 20px;
+  padding: 14px 22px;
+}
+.xo10-accordion-list-holder > ul > li > ul > li > a {
+  padding-left: 30px;
+}
+.xo10-accordion-list-holder > ul > li > ul > li > ul > li > a {
+  padding-left: 45px;
+}
+.xo10-accordion-list-holder > ul > li > ul > li > ul > li > ul > li > a {
+  padding-left: 60px;
+}
+.xo10-accordion-list-holder > ul.countpos-extleft > li > a {
+  padding-left: 42px;
+}
+.xo10-accordion-list-holder > ul.countpos-extleft > li > ul > li > a {
+  padding-left: 50px;
+}
+.xo10-accordion-list-holder > ul.countpos-extleft > li > ul > li > ul > li > a {
+  padding-left: 65px;
+}
+.xo10-accordion-list-holder > ul.countpos-extleft > li > ul > li > ul > li > ul > li > a {
+  padding-left: 80px;
+}
+.xo10-accordion-list-holder > ul.togglebtn-left > li > a, .xo10-accordion-list-holder > ul.togglebtn-left.countpos-extright > li > a {
+  margin-left: 15px !important;
+}
+.xo10-accordion-list-holder > ul.togglebtn-left > li > ul > li > a, .xo10-accordion-list-holder > ul.togglebtn-left.countpos-extright > li > ul > li > a {
+  margin-left: 30px !important;
+}
+.xo10-accordion-list-holder > ul.togglebtn-left > li > ul > li > ul > li > a, .xo10-accordion-list-holder > ul.togglebtn-left.countpos-extright > li > ul > li > ul > li > a {
+  margin-left: 45px !important;
+}
+.xo10-accordion-list-holder > ul.togglebtn-left > li > ul > li > ul > li > ul > li > a, .xo10-accordion-list-holder > ul.togglebtn-left.countpos-extright > li > ul > li > ul > li > ul > li > a {
+  margin-left: 60px !important;
+}
+.xo10-accordion-list-holder > ul.togglebtn-left.countpos-extleft > li > a {
+  margin-left: 30px !important;
+}
+.xo10-accordion-list-holder > ul.togglebtn-left.countpos-extleft > li > ul > li > a {
+  margin-left: 40px !important;
+}
+.xo10-accordion-list-holder > ul.togglebtn-left.countpos-extleft > li > ul > li > ul > li > a {
+  margin-left: 50px !important;
+}
+.xo10-accordion-list-holder > ul.togglebtn-left.countpos-extleft > li > ul > li > ul > li > ul > li > a {
+  margin-left: 60px !important;
+}
+.xo10-accordion-list-holder ul li .count {
+  min-width: 20px;
+  position: absolute;
+  right: 40px;
+  top: 15px;
+  font-size: 11px;
+  font-weight: 800;
+  text-align: center;
+  border-radius: 50%;
+  height: 20px;
+  line-height: 20px;
+}
+.xo10-accordion-list-holder .accordion-btn {
+  color: #d9d9d9;
+}
+.xo10-accordion-list-holder .dashicons, .xo10-accordion-list-holder .dashicons-before::before {
+  font-size: 16px;
+  padding-top: 18px;
+}
+.xo10-accordion-list-holder ul.show-iltr li > a {
+  overflow: hidden;
+}
+.xo10-accordion-list-holder ul.show-iltr li > a > img {
+  float: left;
+}
+.xo10-accordion-list-holder ul.show-iltr li > a > .cat-name {
+  vertical-align: middle;
+  line-height: 30px;
+  float: left;
+  margin-left: 1em;
+}
+.xo10-accordion-list-holder ul.show-tlir li > a {
+  overflow: hidden;
+}
+.xo10-accordion-list-holder ul.show-tlir li > a > img {
+  float: left;
+  margin-left: 1em;
+}
+.xo10-accordion-list-holder ul.show-tlir li > a > .cat-name {
+  vertical-align: middle;
+  line-height: 30px;
+  float: left;
+}
+.xo10-accordion-list-holder ul.countpos-extleft li span.count {
+  left: 10px;
+  right: auto;
+}
+.xo10-accordion-list-holder ul.togglebtn-left.countpos-extright li span.count {
+  left: auto;
+  right: 15px;
+}
+.xo10-accordion-list-holder ul.togglebtn-left.countpos-extleft li span.count {
+  left: 40px;
+  right: auto;
+}

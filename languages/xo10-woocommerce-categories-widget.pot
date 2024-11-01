@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: http://cartible.com/contact\n"
+"POT-Creation-Date: 2016-01-05 11:20:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Walter <walter@cartible.com>\n"
+"Language-Team: Walter <walter@cartible.com>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;_"
+"nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2;"
+"\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "%s not activated because the WooCommerce plugin is not active."
+msgstr ""
+
+msgid "A list or dropdown of product categories."
+msgstr ""
+
+msgid "XO10 - WooCommerce Categories"
+msgstr ""
+
+msgid "Product Categories"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Order by"
+msgstr ""
+
+msgid "Category Order"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Show as dropdown"
+msgstr ""
+
+msgid "Show hierarchy"
+msgstr ""
+
+msgid "Only show children of the current category"
+msgstr ""
+
+msgid "Hide empty categories"
+msgstr ""
+
+msgid "Text/Image display"
+msgstr ""
+
+msgid "Image only"
+msgstr ""
+
+msgid "Text only"
+msgstr ""
+
+msgid "Image left, Text right"
+msgstr ""
+
+msgid "Text left, Image right"
+msgstr ""
+
+msgid "Image width in px (Min = %s, Max = %s)"
+msgstr ""
+
+msgid "Image height in px (Min = %s, Max = %s)"
+msgstr ""
+
+msgid "Show product counts"
+msgstr ""
+
+msgid "Position of product counts"
+msgstr ""
+
+msgid "Extreme Right"
+msgstr ""
+
+msgid "Extreme Left"
+msgstr ""
+
+msgid "Bracket type for product counts"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Look - Effects"
+msgstr ""
+
+msgid "Raw - None"
+msgstr ""
+
+msgid "Basic - None"
+msgstr ""
+
+msgid "Plain - Accordion"
+msgstr ""
+
+msgid "Sexy - Accordion"
+msgstr ""
+
+msgid "Effect options (optional)"
+msgstr ""
+
+msgid "List HTML class attribute (optional)"
+msgstr ""
+
+msgid "List HTML ID attribute (optional)"
+msgstr ""
+
+msgid "No product categories exist."
+msgstr ""
+
+msgid "XO10 - WooCommerce Categories widget"
+msgstr ""
+
+msgid ""
+"Adds a widget that is able to display WooCommerce product category image "
+"thumbnails."
+msgstr ""
